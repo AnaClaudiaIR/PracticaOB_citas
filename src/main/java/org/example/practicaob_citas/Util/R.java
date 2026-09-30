@@ -1,4 +1,4 @@
-package com.example.ejerciciorepasofx.util;
+package org.example.practicaob_citas.Util;
 
 import java.io.File;
 import java.io.InputStream;

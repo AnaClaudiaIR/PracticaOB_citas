@@ -1,4 +1,4 @@
-package Model;
+package org.example.practicaob_citas.Model;
 
 public class Cita {
 
